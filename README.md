@@ -1,2 +1,1 @@
-# mydemo
-some simple demo for android 
+## 一个点击后动画展开的圆形进度条
