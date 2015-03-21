@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@android:color/white">
+
+   
+    
+    <com.hloong.demo.CircleBarTwoSider
+    	android:id="@+id/circle"
+        android:layout_width="200dp"
+    	android:layout_height="200dp"
+    	android:layout_marginTop="20dip"
+    	android:layout_gravity="center"
+    	android:clickable="true"
+    />
+    <com.hloong.demo.CircleBar
+    	android:id="@+id/circle2"
+        android:layout_width="200dp"
+    	android:layout_height="200dp"
+    	android:layout_marginTop="320dip"
+    	android:layout_gravity="center"
+    	android:clickable="true"
+    />
+
+</RelativeLayout>
