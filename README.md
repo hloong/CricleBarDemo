@@ -2,3 +2,6 @@
 ![](https://raw.githubusercontent.com/tmacsky/CricleBarDemo/master/device-2015-03-21-174254.jpg)
 ### 动态截图
 ![](https://github.com/hloong/CricleBarDemo/blob/master/1428637518665.gif)
+
+### 详解
+http://blog.csdn.net/tmacsky/article/details/45111831
