@@ -4,4 +4,4 @@
 ![](https://github.com/hloong/CricleBarDemo/blob/master/1428637518665.gif)
 
 ### 详解
-http://blog.csdn.net/tmacsky/article/details/45111831
+http://www.hloong.com/?p=51
